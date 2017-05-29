@@ -1,0 +1,30 @@
+<application>
+  <component name="CvsApplicationLevelConfiguration">
+    <option name="PATH_TO_PASSWORD_FILE" value="$userdir/.cvspass" />
+  </component>
+  <component name="NodeJsLocalInterpreters">
+    <local-interpreter path="/usr/local/bin/node" />
+    <local-interpreter path="/usr/local/Cellar/node/7.4.0/bin/node" />
+  </component>
+  <component name="RefactoringSettings">
+    <option name="INTRODUCE_LOCAL_CREATE_FINALS" value="false" />
+  </component>
+  <component name="SvnApplicationSettings">
+    <option name="myCheckoutURLs">
+      <list>
+        <option value="http://svn.sinosafe.com.cn:1580/svn/NEWPCIS/newPcis_DEV/11.BASELINE_CODE" />
+        <option value="http://svn.jsptz.com/svn/platform-src/lab/cloud/" />
+        <option value="svn://192.168.1.133/VehicleFinance" />
+        <option value="svn://120.25.172.228" />
+      </list>
+    </option>
+    <option name="myTypedURLs">
+      <list>
+        <option value="http://svn.sinosafe.com.cn:1580/svn/NEWPCIS/newPcis_DEV/11.BASELINE_CODE" />
+        <option value="http://svn.jsptz.com/svn/platform-src/lab/cloud/" />
+        <option value="svn://192.168.1.133/VehicleFinance" />
+        <option value="svn://120.25.172.228" />
+      </list>
+    </option>
+  </component>
+</application>
