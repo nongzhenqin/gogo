@@ -1,10 +1,10 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
+    <option name="customScope" value="File '.../clm-service/src/main/java/com/core/application/claim/service/spring/GcRegistServiceSpringImpl.java - [clm-service]'" />
+    <option name="defaultScopeName" value="File '.../clm-service/src/main/java/com/core/application/claim/service/spring/GcRegistServiceSpringImpl.java - [clm-service]'" />
     <option name="wholeWordsOnly" value="true" />
     <option name="WHOLE_WORDS_ONLY" value="true" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="SEARCH_SCOPE" value="File '.../clm-service/src/main/java/com/core/application/claim/service/spring/GcRegistServiceSpringImpl.java - [clm-service]'" />
     <option name="FILE_MASK" value="*" />
     <recentFileMasks>
       <mask>*.properties</mask>
