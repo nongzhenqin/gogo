@@ -18,11 +18,11 @@
       <mask>*。</mask>
       <mask>*.x</mask>
       <mask>*.xm</mask>
-      <mask>*.xml</mask>
       <mask>*</mask>
       <mask>*.</mask>
       <mask>*.j</mask>
       <mask>*.js</mask>
+      <mask>*.xml</mask>
       <mask>*.jsp</mask>
     </recentFileMasks>
   </component>
