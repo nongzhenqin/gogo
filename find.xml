@@ -18,10 +18,10 @@
       <mask>*.jav</mask>
       <mask>*.ja</mask>
       <mask>*.j</mask>
+      <mask>*.xm</mask>
       <mask>*</mask>
       <mask>*.</mask>
       <mask>*.x</mask>
-      <mask>*.xm</mask>
       <mask>*.xml</mask>
     </recentFileMasks>
   </component>
