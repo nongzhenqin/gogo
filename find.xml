@@ -21,13 +21,17 @@
       <mask>*上传zi</mask>
       <mask>*上传zi'l</mask>
       <mask>*上传资料</mask>
-      <mask>*.j</mask>
-      <mask>*.ja</mask>
-      <mask>*.jav</mask>
-      <mask>*.java</mask>
       <mask>*.xml</mask>
       <mask>*.xm</mask>
       <mask>*.x</mask>
+      <mask>*.java\\\\</mask>
+      <mask>*.java\\\</mask>
+      <mask>*.java\\</mask>
+      <mask>*.java\</mask>
+      <mask>*.java</mask>
+      <mask>*.jav</mask>
+      <mask>*.ja</mask>
+      <mask>*.j</mask>
       <mask>*.</mask>
       <mask>*</mask>
     </recentFileMasks>
