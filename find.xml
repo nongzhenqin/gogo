@@ -1,10 +1,10 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '/Users/nong/work/maven/mavenPlatform/arg_repo/org/springframework/spring-context/4.3.10.RELEASE/spring-context-4.3.10.RELEASE.jar!/org/springframework/context/ApplicationContext.class - [Maven: org.springframework:spring-context:4.3.10.RELEASE]'" />
-    <option name="defaultScopeName" value="File '/Users/nong/work/maven/mavenPlatform/arg_repo/org/springframework/spring-context/4.3.10.RELEASE/spring-context-4.3.10.RELEASE.jar!/org/springframework/context/ApplicationContext.class - [Maven: org.springframework:spring-context:4.3.10.RELEASE]'" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
     <option name="localWholeWordsOnly" value="true" />
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
-    <option name="SEARCH_SCOPE" value="File '/Users/nong/work/maven/mavenPlatform/arg_repo/org/springframework/spring-context/4.3.10.RELEASE/spring-context-4.3.10.RELEASE.jar!/org/springframework/context/ApplicationContext.class - [Maven: org.springframework:spring-context:4.3.10.RELEASE]'" />
+    <option name="SEARCH_SCOPE" value="All Places" />
     <option name="FILE_MASK" value="*" />
     <recentFileMasks>
       <mask>*.css</mask>
