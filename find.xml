@@ -5,7 +5,7 @@
     <option name="localWholeWordsOnly" value="true" />
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.jsp" />
+    <option name="FILE_MASK" value="*.js" />
     <recentFileMasks>
       <mask>*.x'm</mask>
       <mask>*sh</mask>
@@ -19,7 +19,6 @@
       <mask>*.java\\</mask>
       <mask>*.java\</mask>
       <mask>*/</mask>
-      <mask>*.js</mask>
       <mask>*.ja</mask>
       <mask>*.jav</mask>
       <mask>*.java</mask>
@@ -37,6 +36,7 @@
       <mask>*.</mask>
       <mask>*.j</mask>
       <mask>*.jsp</mask>
+      <mask>*.js</mask>
     </recentFileMasks>
   </component>
 </application>
