@@ -4,6 +4,7 @@
       <mapping ext="rf" type="Drools" />
       <mapping pattern="._WebContent" type="PLAIN_TEXT" />
       <mapping ext="properties_pro" type="PLAIN_TEXT" />
+      <mapping ext="0" type="PLAIN_TEXT" />
       <mapping ext="properties_dev" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
