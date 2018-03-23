@@ -1,0 +1,10 @@
+<templateSet group="cntaipingGroup">
+  <template name="*" value="*&#10; * @ClassName: $class_name$&#10; * @Description: &#10; * @author NongZhenQin&#10; * @date $date$ $time$&#10; */" description="太平注释模板" toReformat="false" toShortenFQNames="true">
+    <variable name="class_name" expression="className()" defaultValue="" alwaysStopAt="true" />
+    <variable name="date" expression="date(&quot;yyyy-MM-dd&quot;)" defaultValue="" alwaysStopAt="true" />
+    <variable name="time" expression="time(&quot;HH:mm:ss&quot;)" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+</templateSet>
