@@ -2,39 +2,9 @@
   <component name="FindSettings">
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
+    <option name="localWholeWordsOnly" value="true" />
+    <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <option name="FILE_MASK" value="*" />
-    <recentFileMasks>
-      <mask>*.x'm</mask>
-      <mask>*sh</mask>
-      <mask>*shang</mask>
-      <mask>*shang'chua</mask>
-      <mask>*上传zi</mask>
-      <mask>*上传zi'l</mask>
-      <mask>*上传资料</mask>
-      <mask>*.java\\\\</mask>
-      <mask>*.java\\\</mask>
-      <mask>*.java\\</mask>
-      <mask>*.java\</mask>
-      <mask>*/</mask>
-      <mask>*。xml</mask>
-      <mask>*。x'm</mask>
-      <mask>*。x</mask>
-      <mask>*.x</mask>
-      <mask>*.xm</mask>
-      <mask>*.xml</mask>
-      <mask>*。</mask>
-      <mask>*.css</mask>
-      <mask>*.cs</mask>
-      <mask>*.c</mask>
-      <mask>*.jsp</mask>
-      <mask>*.js</mask>
-      <mask>*.</mask>
-      <mask>*.j</mask>
-      <mask>*.ja</mask>
-      <mask>*.jav</mask>
-      <mask>*.java</mask>
-      <mask>*</mask>
-    </recentFileMasks>
   </component>
 </application>
